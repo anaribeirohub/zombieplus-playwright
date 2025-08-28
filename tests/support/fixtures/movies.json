@@ -1,0 +1,82 @@
+{
+  "create": {
+    "title": "Guerra Mundial Z",
+    "overview": "Um ex-investigador da ONU percorre o mundo para encontrar a origem de um vírus que transforma humanos em zumbis velozes.",
+    "company": "Paramount Pictures",
+    "release_year": 2013,
+    "featured": true,
+    "cover": "/images/guerra_mundial_z.png"
+  },
+  "resident_evil_o_hospede_maldito": {
+    "title": "Resident Evil: O Hóspede Maldito",
+    "overview": "Uma equipe de comando precisa conter um surto viral que transforma pessoas em mortos-vivos dentro de um laboratório subterrâneo.",
+    "company": "Screen Gems",
+    "release_year": 2002,
+    "featured": false,
+    "cover": "/images/resident_evil_o_hospede_maldito.png"
+  },
+  "madrugada_dos_mortos": {
+    "title": "Madrugada dos Mortos",
+    "overview": "Sobreviventes se refugiam em um shopping enquanto hordas de zumbis dominam o mundo.",
+    "company": "Universal Pictures",
+    "release_year": 2004,
+    "featured": false,
+    "cover": "/images/madrugada_dos_mortos.png"
+  },
+  "exterminio": {
+    "title": "Extermínio",
+    "overview": "Após um vírus devastar Londres, um pequeno grupo de sobreviventes luta pela vida.",
+    "company": "Fox Searchlight Pictures",
+    "release_year": 2002,
+    "featured": false,
+    "cover": "/images/exterminio.png"
+  },
+  "zumbilandia": {
+    "title": "Zumbilândia",
+    "overview": "Um jovem tímido e um caçador durão atravessam os EUA em meio a um apocalipse zumbi cheio de humor e ação.",
+    "company": "Columbia Pictures",
+    "release_year": 2009,
+    "featured": false,
+    "cover": "/images/zumbilandia.png"
+  },
+  "invasao_zumbi": {
+    "title": "Invasão Zumbi",
+    "overview": "Passageiros de um trem em movimento tentam sobreviver a um surto zumbi que se espalha pela Coreia do Sul.",
+    "company": "Next Entertainment World",
+    "release_year": 2016,
+    "featured": true,
+    "cover": "/images/invasao_zumbi.png"
+  },
+  "a_noite_dos_mortos_vivos": {
+    "title": "A Noite dos Mortos-Vivos",
+    "overview": "Um grupo de pessoas fica preso em uma casa enquanto mortos-vivos começam a se levantar da sepultura.",
+    "company": "Continental Distributing",
+    "release_year": 1968,
+    "featured": false,
+    "cover": "/images/a_noite_dos_mortos_vivos.png"
+  },
+  "todo_mundo_quase_morto": {
+    "title": "Todo Mundo Quase Morto",
+    "overview": "Dois amigos desajeitados tentam sobreviver ao apocalipse zumbi em uma comédia britânica irreverente.",
+    "company": "Universal Pictures",
+    "release_year": 2004,
+    "featured": false,
+    "cover": "/images/todo_mundo_quase_morto.png"
+  },
+  "dia_dos_mortos": {
+    "title": "Dia dos Mortos",
+    "overview": "Um grupo de sobreviventes tenta resistir ao avanço dos zumbis em um bunker militar subterrâneo.",
+    "company": "United Film Distribution Company",
+    "release_year": 1985,
+    "featured": false,
+    "cover": "/images/dia_dos_mortos.png"
+  },
+  "exterminio_2": {
+    "title": "Extermínio 2",
+    "overview": "Meses após o primeiro surto, o Reino Unido tenta se reerguer, mas o vírus volta a se espalhar.",
+    "company": "Fox Atomic",
+    "release_year": 2007,
+    "featured": false,
+    "cover": "/images/exterminio_2.png"
+  }
+}
