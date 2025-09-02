@@ -4,7 +4,7 @@ const { test, expect } = require('../support')
 test('deve logar como administrador', async ({ page }) => {
     await page.login.visit()
     await page.login.submit('admin@zombieplus.com', 'pwd123')
-    await page.movies.isLogged()
+    await page.login.isLogged()
 })
 
 test('não deve logar com a seha incorreta', async ({ page }) => {

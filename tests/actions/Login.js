@@ -1,6 +1,6 @@
 const { expect } = require('@playwright/test')
 
-export class LoginPage {
+export class Login {
     constructor(page) {
         this.page = page
     }
@@ -18,10 +18,14 @@ export class LoginPage {
         await this.page.getByText('Entrar').click()
     }
 
-    async alertHaveText(text){
+    async alertHaveText(text) {
         const alert = this.page.locator('span[class$=alert]')
         await expect(alert).toHaveText(text)
     }
-    
+
+    async isLogged() {
+        await this.page.waitForLoadState('networkidle')
+        await expect(this.page).toHaveURL(/.*admin/)
+    }
 
 }
