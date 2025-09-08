@@ -13,4 +13,3 @@ playwright-report
 
 # playwright generated reports
 *.html
-*.png
