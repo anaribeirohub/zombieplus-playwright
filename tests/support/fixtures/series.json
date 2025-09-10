@@ -1,0 +1,56 @@
+{
+    "register": {
+        "title": "Santa Clarita Diet",
+        "overview": "Um casal suburbano enfrenta a rotina da vida e um apocalipse zumbi inesperado quando a esposa se transforma em zumbi.",
+        "featured": false,
+        "release_year": 2017,
+        "company": "Netflix",
+        "seasons": "3",
+        "cover": "covers/series/santa-clarita-diet.png"
+    },
+    "duplicate": {
+        "title": "Kingdom",
+        "overview": "No período medieval da Coreia, um príncipe enfrenta uma praga misteriosa que transforma as pessoas em zumbis famintos.",
+        "featured": false,
+        "release_year": 2019,
+        "company": "Netflix",
+        "seasons": "3",
+        "cover": "covers/series/kingdom.png"
+    },
+    "remove": {
+        "title": "Z Nation",
+        "overview": "Em um mundo devastado por zumbis, um grupo improvável deve escoltar o único sobrevivente conhecido de uma mordida zumbi até um laboratório.",
+        "featured": false,
+        "release_year": 2014,
+        "company": "Netflix",
+        "seasons": "5",
+        "cover": "covers/series/z_nation.png"
+    },
+    "search": {
+        "input": "dead",
+        "outputs": [
+            "The Walking Dead",
+            "Fear the Walking Dead"
+        ],
+        "data": [
+            {
+                "title": "The Walking Dead",
+                "overview": "Após um apocalipse zumbi, um grupo de sobreviventes luta para manter sua humanidade e sobreviver aos perigos do novo mundo.",
+                "featured": false,
+                "release_year": 2010,
+                "company": "Amazon Studios",
+                "seasons": "11",
+                "cover": "covers/series/the_walking_dead.png"
+            },
+            {
+                "title": "Fear the Walking Dead",
+                "overview": "Spin-off de The Walking Dead, mostrando o início do apocalipse e a luta de uma família para sobreviver.",
+                "featured": false,
+                "release_year": 2015,
+                "company": "Sony Pictures",
+                "seasons": "8",
+                "cover": "covers/series/fear_the_walking_dead.png"
+            }
+        ]
+    }
+}
