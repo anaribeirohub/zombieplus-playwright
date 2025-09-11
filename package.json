@@ -12,5 +12,9 @@
     "@playwright/test": "^1.48.2",
     "@types/node": "^22.8.1",
     "pg": "^8.16.3"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "playwright-tesults-reporter": "^1.4.0"
   }
 }
